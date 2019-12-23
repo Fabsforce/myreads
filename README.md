@@ -8,11 +8,11 @@ In using the search page, the user can easily add new books to his/her shelves. 
 
 Install the project dependencies in running in your console :
 
-* `% npm install`
+`% npm install`
 
 ## start the development server with
 
-* `% npm start`
+`% npm start`
 
 
 ## Important
