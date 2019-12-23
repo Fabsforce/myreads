@@ -6,13 +6,13 @@ In using the search page, the user can easily add new books to his/her shelves. 
 
 ## Installation
 
-Install the project dependencies in running :
+Install the project dependencies in running in your console :
 
-* install all project dependencies with `npm install`
+* `% npm install`
 
-## Use and test the app
+## start the development server with
 
-* start the development server with `npm start`
+* `% npm start`
 
 
 ## Important
