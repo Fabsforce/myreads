@@ -9,7 +9,8 @@ import "react-loader-spinner/dist/loader/css/react-spinner-loader.css"
 
 
 /**
- * This shelves constant defines the shelves types and order defined for this project
+ * This shelves constant defines the shelves types
+ * and order defined for this project
 */
 const shelves = [
   { shelfType: 'currentlyReading', shelfTitle: 'Currently Reading' },
